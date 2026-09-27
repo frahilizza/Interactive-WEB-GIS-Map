@@ -1,0 +1,230 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Islamabad",
+        "temperature": 28,
+        "rainfall": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0979,
+          33.7144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Lahore",
+        "temperature": 31,
+        "rainfall": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4087,
+          31.5504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Karachi",
+        "temperature": 32,
+        "rainfall": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0511,
+          24.8907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Peshawar",
+        "temperature": 26,
+        "rainfall": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5749,
+          34.0451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Quetta",
+        "temperature": 24,
+        "rainfall": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.025,
+          30.2098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Faisalabad",
+        "temperature": 33,
+        "rainfall": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1291,
+          31.4487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Rawalpindi",
+        "temperature": 29,
+        "rainfall": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0669,
+          33.5951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Multan",
+        "temperature": 35,
+        "rainfall": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5749,
+          30.1875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Hyderabad",
+        "temperature": 33,
+        "rainfall": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.4078,
+          25.426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Sukkur",
+        "temperature": 36,
+        "rainfall": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.9074,
+          27.7352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Abbottabad",
+        "temperature": 24,
+        "rainfall": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2617,
+          34.1763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Gwadar",
+        "temperature": 30,
+        "rainfall": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3725,
+          25.1564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Gilgit",
+        "temperature": 22,
+        "rainfall": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3644,
+          35.9508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Skardu",
+        "temperature": 18,
+        "rainfall": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6833,
+          35.3271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Muzaffarabad",
+        "temperature": 27,
+        "rainfall": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5211,
+          34.4
+        ]
+      }
+    }
+  ]
+}
